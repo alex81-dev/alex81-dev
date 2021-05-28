@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alex Leon</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 
 - 🔭 I’m currently working on [Henry Gadgets](https://github.com/HenryGadgetsProject)
 
@@ -11,8 +11,6 @@
 - 💬 Ask me about **Favorite tech**
 
 - 📫 How to reach me **alex81.dev@gmail.com**
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 
